@@ -170,7 +170,8 @@ public class MyArrayAdapter extends ArrayAdapter<MyData> {
     super(context, resource, textViewResourceId, objects); 
   } 
   @Override 
-  public View getView(int position, View convertView, ViewGroup parent) { 
+  public View getView(int position, 
+    View convertView, ViewGroup parent) { 
     if (convertView == null) { 
       // inflate + viewholder 
     } 
