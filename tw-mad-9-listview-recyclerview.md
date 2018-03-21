@@ -1,6 +1,6 @@
 % MAD - Android 9: ListView / RecyclerView
 % Patrick Sturm
-% 16.10.2017
+% 21.03.2018
 
 ## Information
 
